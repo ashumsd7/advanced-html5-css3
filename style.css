@@ -1,0 +1,16 @@
+/* //specificity is 2 */
+div p{ 
+    color: red;
+}
+#pId{
+    color: aqua;
+}
+.pClass{
+    color: blueviolet;
+}
+p{
+    color: red;
+}
+p{
+    color: rgb(42, 0, 156);
+}
